@@ -1,0 +1,25 @@
+{
+  "name": "randomuserapi",
+  "version": "1.0.0",
+  "description": "Api random user",
+  "keywords": [
+    "api",
+    "user"
+  ],
+  "homepage": "https://github.com/BrianCodingRun/random-user-api#readme",
+  "bugs": {
+    "url": "https://github.com/BrianCodingRun/random-user-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianCodingRun/random-user-api.git"
+  },
+  "license": "ISC",
+  "author": "BrianCodingRun",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
